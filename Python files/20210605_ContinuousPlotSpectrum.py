@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import scipy.fft as sp
 
 sample_rate = 40*1e3  # in Hertz [Hz]
-recording_time = 0.25  # in seconds [s]
+recording_time = 0.5  # in seconds [s]
 
 run_plot = 1
 ind = 0
